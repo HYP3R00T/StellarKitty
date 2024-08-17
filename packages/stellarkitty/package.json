@@ -1,7 +1,7 @@
 {
-  "name": "stellarkitty",
+  "name": "@hyp3r00t/stellarkitty",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.ts",
   "module": "src/index.ts",
   "exports": {
@@ -10,6 +10,13 @@
       "require": "./src/index.ts"
     }
   },
+  "license": "MIT",
+  "keywords": [
+    "astro",
+    "ui",
+    "components",
+    "tailwindcss"
+  ],
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
